@@ -1,12 +1,4 @@
 github_users:
-  - torvalds
-  - alshedivat
-
+  - RicardoP0
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - RicardoP0/Speech2dCNN_LSTM
